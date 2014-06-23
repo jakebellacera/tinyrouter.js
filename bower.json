@@ -1,0 +1,26 @@
+{
+  "name": "tinyrouter.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jakebellacera/tinyrouter.js",
+  "authors": [
+    "Jake Bellacera <hi@jakebellacera.com>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "description": "A tiny JavaScript router.",
+  "main": "tinyrouter.js",
+  "keywords": [
+    "router",
+    "lightweight",
+    "simple"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
